@@ -1,4 +1,6 @@
-This is a react app which provides you with some motivating and interesting advices.
+# Advice App
+
+This is a simple react app which provides you with some motivating and interesting advices.
 This advices are being fetched from an API.
 
 Here you can have some advices:  https://get-advice.netlify.com/
