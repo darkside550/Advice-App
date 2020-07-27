@@ -1,5 +1,7 @@
 # Advice App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ca89540-1be7-4dae-aa3b-554e40e56485/deploy-status)](https://app.netlify.com/sites/get-advice/deploys)
+
 This is a simple react app which provides you with some motivating and interesting advices.
 This advices are being fetched from an API.
 
